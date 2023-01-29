@@ -1,4 +1,4 @@
-# prerequisite to run the app on local host
+# Prerequisite to run the app on local host
  If other users want to run project locally, you will have to run "npm i" before ng serve. That's widely accepted as a standard.
 
 # Getting Started with Create React App
