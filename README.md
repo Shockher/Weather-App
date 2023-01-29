@@ -1,5 +1,5 @@
 # Prerequisite to run the app on local host
- If other users want to run project locally, you will have to run "npm i" then npm start That's widely accepted as a standard.
+ If other users want to run project locally, you will have to run "npm i" and also type npm install "npm i axios" and "npm i dayjs"  then npm start That's widely accepted as a standard.
 
 # Getting Started with Create React App
 
